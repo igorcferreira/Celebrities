@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>firstName</key>
+		<string>Steve</string>
+		<key>lastName</key>
+		<string>Jobs</string>
+		<key>age</key>
+		<string>56</string>
+		<key>image</key>
+		<string>http://blogs.kqed.org/stateofhealth/files/2011/11/Jobs_2003_rev1.jpg</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Jony</string>
+		<key>lastName</key>
+		<string>Ive</string>
+		<key>age</key>
+		<string>47</string>
+		<key>image</key>
+		<string>http://www.gizchina.com/wp-content/uploads/images/jonathan-ive-610.jpg</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Scott</string>
+		<key>lastName</key>
+		<string>Forstall</string>
+		<key>age</key>
+		<string>46</string>
+		<key>image</key>
+		<string>http://images.dailytech.com/nimage/Scott_Forstall_Wide.jpg</string>
+	</dict>
+</array>
+</plist>
